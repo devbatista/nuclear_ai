@@ -1,0 +1,21 @@
+{
+  "name": "NUCLEAR AI",
+  "short_name": "NUCLEAR AI",
+  "description": "Cace projetos com IA em 7 dias.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#060b18",
+  "theme_color": "#060b18",
+  "icons": [
+    {
+      "src": "icon-light-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
