@@ -536,6 +536,14 @@
     .pricing-cta:hover { transform: scale(1.02); box-shadow: 0 0 30px rgba(0,212,255,0.5), 0 0 80px rgba(0,212,255,0.2); }
     .pricing-cta-sub { display: block; font-size: 0.875rem; font-weight: 400; opacity: 0.8; margin-top: 4px; }
 
+    .pricing-note {
+      margin: 16px auto 0;
+      max-width: 460px;
+      font-size: 0.875rem;
+      line-height: 1.6;
+      color: var(--muted);
+    }
+
     /* ===== FAQ ===== */
     .faq-list {
       display: grid;
